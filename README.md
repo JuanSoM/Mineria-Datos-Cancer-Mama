@@ -56,6 +56,6 @@ Tras la experimentación exhaustiva, se obtuvieron las siguientes conclusiones:
 * **Lenguaje:** R
 * **Librerías Principales:** `caret`, `pROC`, `nnet`, `e1071`, `randomForest`, `mboost`, `FSelector`, `ggplot2`, `dplyr`.
 
-## ✒️ Autor
+## Autor
 
 * **Juan** - *Trabajo Final de Minería de Datos (2024)*
