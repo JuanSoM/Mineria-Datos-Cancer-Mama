@@ -2,7 +2,7 @@
 
 Este repositorio contiene el código y la documentación del trabajo final de la asignatura de Minería de Datos. El objetivo principal del proyecto es desarrollar y comparar diversos modelos predictivos para determinar el pronóstico de supervivencia ("Vivo" o "Exitus") en pacientes diagnosticados con cáncer de mama.
 
-## 📋 Descripción del Proyecto
+## Descripción del Proyecto
 
 El análisis se centra en un conjunto de datos clínicos (`exam_dataset_24.xlsx`) que incluye variables demográficas, patológicas y de tratamiento. A través de un flujo de trabajo riguroso de minería de datos, se busca identificar los factores más influyentes y el algoritmo más preciso para la clasificación clínica.
 
